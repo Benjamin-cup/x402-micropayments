@@ -66,8 +66,7 @@ This project is a movie streaming platform integrated with x402 for secure and s
 2. When a user tries to access the protected endpoint, they are required to make a payment
 3. After successful payment, the user is redirected to `/video-content`, where the premium video content is served
 
-## Demo
-[Demo website](https://x402.enlomy.xyz/)
+
 
 ## Customizing
 
