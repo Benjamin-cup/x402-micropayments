@@ -21,6 +21,9 @@ This project is a movie streaming platform integrated with x402 for secure and s
 - **SEO Optimized** - Complete meta tags for social sharing (OpenGraph, Twitter Cards)
 - **Favicon Support** - Custom branding with SVG favicon
 
+<img width="1863" height="901" alt="image" src="https://github.com/user-attachments/assets/8cf1123c-933e-4c3b-bbba-48cccfd7db30" />
+
+
 ## Prerequisites
 
 - Node.js (v22 or higher)
