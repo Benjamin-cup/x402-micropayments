@@ -31,7 +31,7 @@ This project is a movie streaming platform integrated with x402 for secure and s
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/enlomy/x402-micropayments.git
+   git clone https://github.com/Benjamin-cup/x402-micropayments.git
    cd x402-micropayments
    ```
 
@@ -77,7 +77,13 @@ This project is a movie streaming platform integrated with x402 for secure and s
 
 ## 📞 Contact Info
 
-### Telegram: [enlomy](https://t.me/enlomy)
+
+
+Gmail: benjamin.bigdev@gmail.com
+
+Telegram: [@SOLBenjaminCup](https://t.me/SOLBenjaminCup)
+
+Discord: [@.benjamincup](https://discord.com/channels/@me/1305610537790476382)
 
 ## 🍵 Tip
 
